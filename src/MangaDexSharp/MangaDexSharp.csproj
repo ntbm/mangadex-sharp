@@ -4,6 +4,11 @@
     <Nullable>enable</Nullable>
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
+  <PropertyGroup>
+    <PackageId>MangaDexSharp</PackageId>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/ntbm/mangadex-sharp</RepositoryUrl>
+  </PropertyGroup>
 
   <ItemGroup>
     <InternalsVisibleTo Include="MangaDexSharp.Tests" />
